@@ -924,3 +924,333 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-18.21.01:798][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.06.15-18.21.01:868][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.06.15-18.21.01:909][  0]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.15-18.55.25:194][332]LogRenderer: Reallocating scene render targets to support 1460x712 Format 10 NumSamples 1 (Frame:159).
+[2021.06.15-18.55.29:015][772]LogActorFactory: Actor Factory created Cube
+[2021.06.15-18.55.29:557][836]LogActorFactory: Actor Factory created Cube
+[2021.06.15-18.55.31:151][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-18.55.47:546][934]LogMaterial: Display: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2021.06.15-18.55.47:552][934]LogMaterial: Display: Material /MediaCompositing/DefaultMediaPlaneMaterial.DefaultMediaPlaneMaterial needed to have new flag set bUsedWithStaticLighting !
+[2021.06.15-18.55.47:552][934]LogMaterial: Display: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2021.06.15-18.55.47:554][934]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 4
+[2021.06.15-18.55.47:554][934]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 3
+[2021.06.15-18.55.47:554][934]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 2
+[2021.06.15-18.55.47:554][934]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 1
+[2021.06.15-18.55.58:230][185]LogMaterial: Display: Missing cached shader map for material ErodeAlpha, compiling. 
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 8
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 7
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 6
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 5
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 4
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 3
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 2
+[2021.06.15-18.55.58:250][186]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1
+[2021.06.15-18.56.07:731][274]LogMaterial: Display: Missing cached shader map for material ImageReflectionPreview, compiling. 
+[2021.06.15-18.56.07:739][274]LogMaterial: Display: Material /Engine/EditorMaterials/Utilities/ImageReflectionPreview.ImageReflectionPreview needed to have new flag set bUsedWithStaticLighting !
+[2021.06.15-18.56.07:740][274]LogMaterial: Display: Missing cached shader map for material ImageReflectionPreview, compiling. 
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 8
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 7
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 6
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 5
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 4
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 3
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 2
+[2021.06.15-18.56.07:743][274]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 8
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 7
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 6
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 5
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 4
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 3
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 2
+[2021.06.15-18.56.07:756][275]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1
+[2021.06.15-18.56.14:059][955]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.06.15-18.56.14:074][956]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2021.06.15-18.56.14:074][956]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2021.06.15-18.56.28:335][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.15-18.56.39:906][965]LogMaterial: Display: Missing cached shader map for material CASC_RenderLights_MAT, compiling. 
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 28
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 26
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 24
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 22
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 20
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 18
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 16
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 12
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 10
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 8
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 6
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 4
+[2021.06.15-18.56.39:949][966]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 2
+[2021.06.15-18.56.46:074][530]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.06.15-18.56.46:096][531]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 8
+[2021.06.15-18.56.46:096][531]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 7
+[2021.06.15-18.56.46:097][531]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 6
+[2021.06.15-18.56.46:097][531]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 5
+[2021.06.15-18.56.46:097][531]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 4
+[2021.06.15-18.56.46:097][531]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 3
+[2021.06.15-18.56.46:097][531]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 2
+[2021.06.15-18.56.46:097][531]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1
+[2021.06.15-18.56.54:975][550]LogMaterial: Display: Missing cached shader map for material DeltaGenMasterClearCoat, compiling. 
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 12
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 11
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 10
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 9
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 8
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 7
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 6
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 5
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 4
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 3
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 2
+[2021.06.15-18.56.54:996][551]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1
+[2021.06.15-18.57.27:355][300]LogMaterial: Display: Missing cached shader map for material HeatmapMaterial, compiling. 
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 8
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 7
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 6
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 5
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 4
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 3
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 2
+[2021.06.15-18.57.27:370][301]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1
+[2021.06.15-18.57.34:049][ 52]LogTexture: Display: Building textures: IconTeleportMode (AutoDXT, 256X256)
+[2021.06.15-18.57.34:049][ 52]LogMaterial: Display: Missing cached shader map for material IconTeleportMode_Mat, compiling. 
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 33
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 31
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 29
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 27
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 25
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 23
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 21
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 19
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 17
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 15
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 13
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 11
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 9
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 7
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 5
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2021.06.15-18.57.34:086][ 53]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 1
+[2021.06.15-18.57.48:035][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-18.57.50:217][830]LogActorFactory: Actor Factory created Cube
+[2021.06.15-18.57.52:215][ 69]LogActorFactory: Actor Factory created Cube
+[2021.06.15-18.57.55:070][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.15-18.57.56:470][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.15-18.57.59:646][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-18.58.01:935][211]LogActorFactory: Actor Factory created Cube
+[2021.06.15-18.58.03:399][386]LogActorFactory: Actor Factory created Cube
+[2021.06.15-18.58.07:049][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.15-18.58.14:579][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.15-18.58.21:618][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-18.58.22:669][610]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-18.58.23:287][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-18.58.28:334][283]LogActorFactory: Actor Factory created Sphere
+[2021.06.15-18.58.28:733][330]LogActorFactory: Actor Factory created Sphere
+[2021.06.15-18.59.19:512][247]LogMaterial: Display: Missing cached shader map for material M_Procedural_Sky_MASTER_UE4, compiling. 
+[2021.06.15-18.59.19:527][248]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2021.06.15-18.59.19:528][248]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2021.06.15-18.59.32:655][772]LogMaterial: Display: Missing cached shader map for material M_TilingPreviewMat_01, compiling. 
+[2021.06.15-18.59.32:682][773]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2021.06.15-18.59.32:682][773]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2021.06.15-19.00.09:914][209]LogSlate: Slate: Had to block on waiting for a draw buffer
+[2021.06.15-19.00.33:726][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.00.36:823][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.00.37:308][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.15-19.00.41:265][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.00.42:167][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.15-19.00.42:626][101]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.15-19.01.13:718][716]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.01.16:895][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.15-19.01.17:856][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.01.19:425][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.01.19:763][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.01.22:779][776]MapCheck: New page: Map Check
+[2021.06.15-19.01.22:789][776]LightingResults: New page: Lighting Build - Jun. 15, 2021, 11:01:22 a.m.
+[2021.06.15-19.01.22:814][776]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.15-19.01.22:852][776]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.15-19.01.22:860][776]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.15-19.01.23:372][776]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.15-19.01.23:372][776]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16100
+[2021.06.15-19.01.25:647][776]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.06.15-19.01.25:647][776]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.15-19.01.25:647][776]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.15-19.01.25:647][776]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.15-19.01.25:647][776]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.15-19.01.25:647][776]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.15-19.01.25:753][776]LogEditorBuildUtils: Build time 0:02
+[2021.06.15-19.01.25:758][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_ClearCoatBlack, compiling. 
+[2021.06.15-19.01.25:760][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_ClearCoatBlack, compiling. 
+[2021.06.15-19.01.25:762][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bookmark_MeasureSource, compiling. 
+[2021.06.15-19.01.25:764][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bookmark_MeasureSource, compiling. 
+[2021.06.15-19.01.25:765][776]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 6
+[2021.06.15-19.01.25:765][776]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 5
+[2021.06.15-19.01.25:765][776]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 4
+[2021.06.15-19.01.25:765][776]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 3
+[2021.06.15-19.01.25:765][776]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 2
+[2021.06.15-19.01.25:765][776]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 1
+[2021.06.15-19.01.25:765][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DeltaGenMasterClearCoat, compiling. 
+[2021.06.15-19.01.25:767][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DeltaGenMasterClearCoat, compiling. 
+[2021.06.15-19.01.25:795][777]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 6
+[2021.06.15-19.01.25:795][777]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 5
+[2021.06.15-19.01.25:795][777]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 4
+[2021.06.15-19.01.25:795][777]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 3
+[2021.06.15-19.01.25:795][777]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 2
+[2021.06.15-19.01.25:795][777]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1
+[2021.06.15-19.01.25:798][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Emissive_Color_0-0-127, compiling. 
+[2021.06.15-19.01.25:800][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Emissive_Color_0-0-127, compiling. 
+[2021.06.15-19.01.25:803][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Chrome, compiling. 
+[2021.06.15-19.01.25:805][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Chrome, compiling. 
+[2021.06.15-19.01.25:807][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TranslucentLaserPointerMaterialInst, compiling. 
+[2021.06.15-19.01.25:809][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TranslucentLaserPointerMaterialInst, compiling. 
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 12
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 11
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 10
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 9
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 8
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 7
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 6
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 5
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2021.06.15-19.01.25:865][778]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2021.06.15-19.01.27:538][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.06.15-19.01.32:776][251]Job is a success!
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.15-19.01.32:914][252]LogVolumetricLightmapImport:          Main 			 8 bricks 	 100.0% (Persistent Level)
+[2021.06.15-19.01.33:073][252]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.06.15-19.01.33:073][252]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.06.15-19.01.33:073][252]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.06.15-19.01.33:073][252]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.06.15-19.01.33:073][252]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.06.15-19.01.33:073][252]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2021.06.15-19.01.33:121][252]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.06.15-19.01.33:122][252]LogMaterial: Display: Material /VirtualProductionUtilities/2D/Materials/Bookmark/M_Bookmark_MeasureSource.M_Bookmark_MeasureSource needed to have new flag set bUsedWithStaticLighting !
+[2021.06.15-19.01.33:123][252]LogMaterial: Display: Missing cached shader map for material M_Bookmark_MeasureSource, compiling. 
+[2021.06.15-19.01.33:125][252]Lightmass on JOHNNY3090: 5.20 sec total, 164 ms importing, 58 ms setup, 1.60 sec photons, 3.34 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 1:43 min total, 2.98 sec processing.
+[2021.06.15-19.01.33:125][252]LogMaterial: Display: Material /DatasmithContent/Materials/FBXImporter/VRED/Chrome.Chrome needed to have new flag set bUsedWithStaticLighting !
+[2021.06.15-19.01.33:127][252]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2021.06.15-19.01.33:127][252]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2021.06.15-19.01.33:127][252]LogMaterial: Display: Missing cached shader map for material Chrome, compiling. 
+[2021.06.15-19.01.33:204][252]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 121
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 116
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 111
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 106
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 101
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 96
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 91
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 86
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 81
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 76
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 71
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 66
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 61
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 56
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 51
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 46
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 41
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 36
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 31
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 26
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 21
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 16
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 11
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 6
+[2021.06.15-19.01.33:205][252]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 1
+[2021.06.15-19.01.33:205][252]LogMaterial: Display: Material /DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat.DeltaGenMasterClearCoat needed to have new flag set bUsedWithStaticLighting !
+[2021.06.15-19.01.33:206][252]LogMaterial: Display: Missing cached shader map for material DeltaGenMasterClearCoat, compiling. 
+[2021.06.15-19.01.33:225][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.06.15-19.01.33:308][252]LogStaticLightingSystem: Illumination: 10.4 sec (80 ms encoding lightmaps, 99 ms encoding shadowmaps)
+[2021.06.15-19.01.33:308][252]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.06.15-19.01.33:309][252]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.06.15-19.01.33:664][252]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 21
+[2021.06.15-19.01.33:665][252]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 20
+[2021.06.15-19.01.33:665][252]DumpUnbuiltLightIteractions
+[2021.06.15-19.01.33:665][252]Lights with unbuilt interactions: 0
+[2021.06.15-19.01.33:665][252]
+[2021.06.15-19.01.33:665][252]Primitives with unbuilt interactions: 0
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 19
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 18
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 17
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 16
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 15
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 14
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 13
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 12
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 11
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 10
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 9
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 8
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 7
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 6
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 5
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 4
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 3
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 2
+[2021.06.15-19.01.38:839][252]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 1
+[2021.06.15-19.01.38:861][252]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 1 (Frame:13641).
+[2021.06.15-19.01.39:824][252]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 2048X2048)
+[2021.06.15-19.01.40:610][253]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.15-19.01.40:611][253]MapCheck: New page: Main - Jun. 15, 2021, 11:01:40 a.m.
+[2021.06.15-19.01.40:612][253]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.06ms to complete.
+[2021.06.15-19.01.42:068][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.01.50:468][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.15-19.01.50:474][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.15-19.01.50:480][ 20]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Main_Auto1E26A79F54141007B0F0B6585B1AF896A.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/Game/Main_Auto1.umap'
+[2021.06.15-19.01.50:481][ 20]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.035
+[2021.06.15-19.01.50:481][ 20]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2021.06.15-19.01.50:482][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/VirtualProductionUtilities/2D/Materials/Bookmark/M_Bookmark_MeasureSource] ([1] browsable assets)...
+[2021.06.15-19.01.50:498][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /VirtualProductionUtilities/2D/Materials/Bookmark/M_Bookmark_MeasureSource.M_Bookmark_MeasureSource]
+[2021.06.15-19.01.50:498][ 20]OBJ SavePackage: Finished generating thumbnails for package [/VirtualProductionUtilities/2D/Materials/Bookmark/M_Bookmark_MeasureSource]
+[2021.06.15-19.01.50:501][ 20]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/M_Bookmark_MeasureSource_Auto1AEC3FBEB4A43155813675ABD820EEF76.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/VirtualProductionUtilities/2D/Materials/Bookmark/M_Bookmark_MeasureSource_Auto1.uasset'
+[2021.06.15-19.01.50:502][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/MediaCompositing/DefaultMediaPlaneMaterial] ([1] browsable assets)...
+[2021.06.15-19.01.50:506][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /MediaCompositing/DefaultMediaPlaneMaterial.DefaultMediaPlaneMaterial]
+[2021.06.15-19.01.50:507][ 20]OBJ SavePackage: Finished generating thumbnails for package [/MediaCompositing/DefaultMediaPlaneMaterial]
+[2021.06.15-19.01.50:510][ 20]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/DefaultMediaPlaneMaterial_Auto191B64CE6472B535D094535A32318AD53.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/MediaCompositing/DefaultMediaPlaneMaterial_Auto1.uasset'
+[2021.06.15-19.01.50:511][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EditorMaterials/Utilities/ImageReflectionPreview] ([1] browsable assets)...
+[2021.06.15-19.01.50:516][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EditorMaterials/Utilities/ImageReflectionPreview.ImageReflectionPreview]
+[2021.06.15-19.01.50:516][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Utilities/ImageReflectionPreview]
+[2021.06.15-19.01.50:520][ 20]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/ImageReflectionPreview_Auto10A2D20664324F6A1199BFFA059DD8512.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/Engine/EditorMaterials/Utilities/ImageReflectionPreview_Auto1.uasset'
+[2021.06.15-19.01.50:520][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat] ([1] browsable assets)...
+[2021.06.15-19.01.50:525][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat.DeltaGenMasterClearCoat]
+[2021.06.15-19.01.50:525][ 20]OBJ SavePackage: Finished generating thumbnails for package [/DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat]
+[2021.06.15-19.01.50:539][ 20]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/DeltaGenMasterClearCoat_Auto127C79C464324AD491988958AFB1EBE6C.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat_Auto1.uasset'
+[2021.06.15-19.01.50:539][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/DatasmithContent/Materials/FBXImporter/VRED/Chrome] ([1] browsable assets)...
+[2021.06.15-19.01.50:545][ 20]OBJ SavePackage:     Rendered thumbnail for [Material /DatasmithContent/Materials/FBXImporter/VRED/Chrome.Chrome]
+[2021.06.15-19.01.50:545][ 20]OBJ SavePackage: Finished generating thumbnails for package [/DatasmithContent/Materials/FBXImporter/VRED/Chrome]
+[2021.06.15-19.01.50:567][ 20]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Chrome_Auto15ACF69AD411BA67BF8961BAD74B89B1A.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Autosaves/DatasmithContent/Materials/FBXImporter/VRED/Chrome_Auto1.uasset'
+[2021.06.15-19.01.50:567][ 20]LogFileHelpers: Auto-saving content packages took 0.086
+[2021.06.15-19.03.12:851][266]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.03.33:686][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.03.34:370][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.03.57:131][159]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.03.57:597][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.04.54:252][910]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.05.26:926][766]LogSlate: Window 'Color Picker' being destroyed
+[2021.06.15-19.05.40:605][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.05.41:863][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.15-19.05.41:869][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.15-19.05.41:878][549]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Main0F41CAD146D938B57015E7BE8E3699A5.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main.umap'
+[2021.06.15-19.05.41:886][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main_BuiltData.uasset" SILENT=true
+[2021.06.15-19.05.42:192][549]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Main_BuiltDataECB75DC44AC586733277BD87C6EE5528.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main_BuiltData.uasset'
+[2021.06.15-19.05.42:221][549]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.15-19.05.42:221][549]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.06.15-19.05.42:221][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.06.15-19.09.08:561][269]LogActorFactory: Actor Factory created Cone
+[2021.06.15-19.09.09:143][337]LogActorFactory: Actor Factory created Cone
+[2021.06.15-19.09.11:077][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.15-19.09.11:083][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.15-19.09.11:091][564]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/MainE4A516874B72A5D1CDB2EEA4AA4B9D94.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main.umap'
+[2021.06.15-19.09.11:094][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main_BuiltData.uasset" SILENT=true
+[2021.06.15-19.09.11:398][564]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Main_BuiltData69A26B4F4F5E610433C556A69BA1B471.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main_BuiltData.uasset'
+[2021.06.15-19.09.11:423][564]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.15-19.09.11:423][564]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.06.15-19.09.11:423][564]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
