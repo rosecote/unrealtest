@@ -1254,3 +1254,149 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-19.09.11:423][564]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.15-19.09.11:423][564]LogContentValidation: Display: Validating World /Game/Main.Main
 [2021.06.15-19.09.11:423][564]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.06.15-19.12.55:869][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.15-19.12.57:633][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.06.15-19.12.59:836][879]MapCheck: New page: Map Check
+[2021.06.15-19.12.59:848][879]LightingResults: New page: Lighting Build - Jun. 15, 2021, 11:12:59 a.m.
+[2021.06.15-19.12.59:852][879]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.15-19.12.59:861][879]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.15-19.12.59:861][879]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.15-19.12.59:862][879]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.15-19.12.59:862][879]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16100
+[2021.06.15-19.13.04:414][879]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.06.15-19.13.04:414][879]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.15-19.13.04:414][879]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.15-19.13.04:414][879]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.15-19.13.04:414][879]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.15-19.13.04:414][879]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.15-19.13.04:497][879]LogEditorBuildUtils: Build time 0:04
+[2021.06.15-19.13.04:505][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bookmark_MeasureSource, compiling. 
+[2021.06.15-19.13.04:506][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bookmark_MeasureSource, compiling. 
+[2021.06.15-19.13.04:508][879]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2021.06.15-19.13.04:508][879]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2021.06.15-19.13.04:508][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DeltaGenMasterClearCoat, compiling. 
+[2021.06.15-19.13.04:510][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DeltaGenMasterClearCoat, compiling. 
+[2021.06.15-19.13.04:513][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Chrome, compiling. 
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 8
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 7
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 6
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 5
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 4
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 3
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 2
+[2021.06.15-19.13.04:515][879]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 1
+[2021.06.15-19.13.04:515][879]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Chrome, compiling. 
+[2021.06.15-19.13.05:248][880]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 2
+[2021.06.15-19.13.05:248][880]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1
+[2021.06.15-19.13.05:628][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.06.15-19.13.10:539][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.06.15-19.13.12:158][130]Job is a success!
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.15-19.13.12:297][131]LogVolumetricLightmapImport:          Main 			 8 bricks 	 100.0% (Persistent Level)
+[2021.06.15-19.13.12:457][131]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.06.15-19.13.12:457][131]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.06.15-19.13.12:457][131]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2021.06.15-19.13.12:457][131]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2021.06.15-19.13.12:457][131]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.06.15-19.13.12:457][131]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2021.06.15-19.13.12:489][131]Lightmass on JOHNNY3090: 6.50 sec total, 169 ms importing, 65 ms setup, 1.55 sec photons, 4.69 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 2:25 min total, 4.37 sec processing.
+[2021.06.15-19.13.12:492][131]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.06.15-19.13.12:499][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.06.15-19.13.12:557][131]LogStaticLightingSystem: Illumination: 12.6 sec (78 ms encoding lightmaps, 61 ms encoding shadowmaps)
+[2021.06.15-19.13.12:557][131]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.06.15-19.13.12:557][131]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.06.15-19.13.13:430][131]DumpUnbuiltLightIteractions
+[2021.06.15-19.13.13:430][131]Lights with unbuilt interactions: 0
+[2021.06.15-19.13.13:430][131]
+[2021.06.15-19.13.13:430][131]Primitives with unbuilt interactions: 0
+[2021.06.15-19.13.14:451][131]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 2048X2048)
+[2021.06.15-19.13.15:215][132]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.15-19.13.15:215][132]MapCheck: New page: Main - Jun. 15, 2021, 11:13:15 a.m.
+[2021.06.15-19.13.15:215][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.266ms to complete.
+[2021.06.15-19.13.32:702][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.15-19.15.59:543][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.16.00:127][303]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.06.15-19.16.07:186][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.16.19:021][466]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.16.24:504][111]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.06.15-19.16.31:988][982]Cmd: DUPLICATE
+[2021.06.15-19.16.31:988][982]Cmd: ACTOR DUPLICATE
+[2021.06.15-19.16.43:138][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.16.44:256][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.06.15-19.16.44:583][481]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2021.06.15-19.16.49:704][ 57]Cmd: DUPLICATE
+[2021.06.15-19.16.49:704][ 57]Cmd: ACTOR DUPLICATE
+[2021.06.15-19.17.01:969][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.06.15-19.17.02:323][564]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor3)
+[2021.06.15-19.17.05:596][927]Cmd: DUPLICATE
+[2021.06.15-19.17.05:596][927]Cmd: ACTOR DUPLICATE
+[2021.06.15-19.17.17:494][348]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.17.30:756][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2021.06.15-19.17.31:733][ 48]Cmd: DELETE
+[2021.06.15-19.17.31:733][ 48]Cmd: ACTOR DELETE
+[2021.06.15-19.17.31:735][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.15-19.17.31:742][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.06.15-19.17.31:746][ 48]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.06.15-19.17.34:828][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.15-19.17.40:592][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.15-19.17.46:206][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.15-19.17.47:711][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.15-19.17.47:717][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.15-19.17.47:725][951]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Main69B450AB4498BBDD86BB6A8179F81E12.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main.umap'
+[2021.06.15-19.17.47:728][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main_BuiltData.uasset" SILENT=true
+[2021.06.15-19.17.48:044][951]LogSavePackage: Moving '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Saved/Main_BuiltData8C6235ED4047A424A87E93A8179CA52D.tmp' to '../../../../Users/info/Documents/testunrealforgit/unrealtest/v2testgit/Content/Main_BuiltData.uasset'
+[2021.06.15-19.17.48:073][951]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.15-19.17.48:073][951]LogContentValidation: Display: Validating World /Game/Main.Main
+[2021.06.15-19.17.48:073][951]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2021.06.15-19.17.51:086][303]MapCheck: New page: Map Check
+[2021.06.15-19.17.51:095][303]LightingResults: New page: Lighting Build - Jun. 15, 2021, 11:17:51 a.m.
+[2021.06.15-19.17.51:098][303]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.15-19.17.51:104][303]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.15-19.17.51:104][303]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.15-19.17.51:105][303]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.15-19.17.51:105][303]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16100
+[2021.06.15-19.17.55:663][303]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.06.15-19.17.55:663][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.15-19.17.55:663][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.15-19.17.55:663][303]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.15-19.17.55:663][303]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.15-19.17.55:663][303]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.15-19.17.55:748][303]LogEditorBuildUtils: Build time 0:04
+[2021.06.15-19.17.55:806][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.06.15-19.18.02:499][324]Job is a success!
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:          0: 5.3% covering 100.0% of volume
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:          1: 5.3% covering 1.6% of volume
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:          2: 89.5% covering 0.4% of volume
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.15-19.18.02:964][325]LogVolumetricLightmapImport:          Main 			 19 bricks 	 100.0% (Persistent Level)
+[2021.06.15-19.18.03:126][325]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.06.15-19.18.03:126][325]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.06.15-19.18.03:126][325]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.06.15-19.18.03:126][325]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.06.15-19.18.03:126][325]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2021.06.15-19.18.03:126][325]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X512)
+[2021.06.15-19.18.03:158][325]LogStaticLightingSystem: Main_BuiltData storing lightmap data for 9 meshes in 2 LightmapResourceClusters (4.5 Meshes per cluster).
+[2021.06.15-19.18.03:165][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.06.15-19.18.03:168][325]Lightmass on JOHNNY3090: 7.02 sec total, 156 ms importing, 53 ms setup, 1.64 sec photons, 5.13 sec processing, 0 ms extra exporting [9/9 mappings]. Threads: 2:39 min total, 4.59 sec processing.
+[2021.06.15-19.18.03:172][325]LogStaticLightingSystem: Illumination: 11.7 sec (80 ms encoding lightmaps, 91 ms encoding shadowmaps)
+[2021.06.15-19.18.03:172][325]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.06.15-19.18.03:172][325]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.06.15-19.18.03:678][325]DumpUnbuiltLightIteractions
+[2021.06.15-19.18.03:679][325]Lights with unbuilt interactions: 0
+[2021.06.15-19.18.03:679][325]
+[2021.06.15-19.18.03:679][325]Primitives with unbuilt interactions: 0
+[2021.06.15-19.18.04:676][325]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 2048X2048)
+[2021.06.15-19.18.05:426][326]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.15-19.18.05:426][326]MapCheck: New page: Main - Jun. 15, 2021, 11:18:05 a.m.
+[2021.06.15-19.18.05:426][326]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.309ms to complete.
