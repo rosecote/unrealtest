@@ -1466,3 +1466,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.15-20.28.26:617][782]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2021.06.15-20.28.28:466][987]LogSlate: Window 'Project Settings' being destroyed
 [2021.06.15-20.28.28:469][987]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.15-20.28.49:667][863]LogSlate: Window 'Multi-User Browser' being destroyed
+[2021.06.15-20.28.49:670][863]LogSlate: Window 'Multi-User Browser' being destroyed
